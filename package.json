@@ -1,0 +1,27 @@
+{
+  "name": "kxless",
+  "version": "0.0.1",
+  "description": "自动编译LESS文件并重新加载浏览器的简单工具|Automatically compile LESS file and reload the browser's simple tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "less",
+    "auto",
+    "kx",
+    "kxless",
+    "kxbrand"
+  ],
+  "author": "kxbrand",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kxbrand/kxless"
+  },
+  "dependencies": {
+    "glob": "^5.0.14",
+    "less": "^2.5.1",
+    "tiny-lr": "^0.1.6"
+  }
+}
