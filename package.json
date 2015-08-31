@@ -1,6 +1,6 @@
 {
   "name": "kxless",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "自动编译LESS文件并重新加载浏览器的简单工具|Automatically compile LESS file and reload the browser's simple tools",
   "main": "index.js",
   "bin": "bin/kxless",
