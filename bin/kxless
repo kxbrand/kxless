@@ -1,0 +1,5 @@
+#! /usr/bin/env node
+
+var kxless = require("../");
+kxless.compile();
+kxless.watch();
